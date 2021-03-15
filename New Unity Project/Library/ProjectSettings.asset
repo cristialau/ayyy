@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 4589c1f4b5709484fbc2b447d4dfdb72
+  productGUID: fffc71a2fec05c740a3b4c870557633f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -629,9 +629,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 54f9b0e5-0c3e-4b8c-bea3-c7043541a78c
+  cloudProjectId: ba48fac8-6539-480d-8980-b23cb4922baa
   framebufferDepthMemorylessMode: 0
-  projectName: New Unity Project
+  projectName: New Unity Project (1)
   organizationId: cristial
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
